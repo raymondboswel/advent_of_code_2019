@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/raymondboswel/advent_of_code_2019/issues"
   },
-  "homepage": "https://github.com/raymondboswel/advent_of_code_2019#readme"
+  "homepage": "https://github.com/raymondboswel/advent_of_code_2019#readme",
+  "devDependencies": {
+    "tslib": "^1.10.0"
+  }
 }
